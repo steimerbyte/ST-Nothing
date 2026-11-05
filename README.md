@@ -16,7 +16,7 @@ ohne Messung ist keiner.
 | **Cache Report** | Liest Cache, Daten und App-Größe je Paket aus `dumpsys diskstats`, kann den Cache global leeren. | 1.3.0 | [cache-report](https://github.com/steimerbyte/cache-report) |
 | **Wakeup Auditor** | Rangliste der Apps nach Jobs, Alarmen und Hintergrundzeit, mit AppOps-Schalter je App. | 1.4.0 | [wakeup-auditor](https://github.com/steimerbyte/wakeup-auditor) |
 | **Bulk Compressor** | Komprimiert Bilder in großer Zahl, eines nach dem anderen. | 1.10.0 | [bulkcompressor](https://github.com/steimerbyte/bulkcompressor) |
-| **Glyph Orchester** | Rechnet aus einer Audiodatei Tempo, Takt und Spektrum und spielt daraus eine Blinkfolge auf den 36 Glyph-Segmenten. | 1.0.0 | [glyph-orchestra](https://github.com/steimerbyte/glyph-orchestra) |
+| **Glyph Orchester** | Rechnet aus einer Audiodatei Tempo, Takt und Spektrum und spielt daraus eine Blinkfolge auf den 36 Glyph-Segmenten. | 1.0.1 | [glyph-orchestra](https://github.com/steimerbyte/glyph-orchestra) |
 | **Glyph Deck** | Steuert die Glyph-Segmente einzeln: Kanäle, Gruppen, Betriebsarten, Pegel. | 1.3.0 | [glyphdeck](https://github.com/steimerbyte/glyphdeck) |
 
 ## Was alle gemeinsam haben
